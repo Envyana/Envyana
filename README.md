@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Welcome to Agus' Digital Space! 🚀</h1>
-<h3 align="center">🔧 Full-Stack Developer | ☁️ Cloud Enthusiast | 🎮 Game Development Explorer</h3>
+<h3 align="center">🔧 Full-Stack Developer | ☁️ Cloud Enthusiast | 🎮 IT spesialist </h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Turning+coffee+into+code+since+2020;Exploring+new+tech+everyday;Cloud+Native+enthusiast;Open+Source+contributor" alt="Typing SVG" /></a>
